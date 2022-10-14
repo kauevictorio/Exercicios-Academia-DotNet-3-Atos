@@ -1,0 +1,15 @@
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\bin\Debug\net6.0\Exercicio_6.2.exe
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\bin\Debug\net6.0\Exercicio_6.2.deps.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\bin\Debug\net6.0\Exercicio_6.2.runtimeconfig.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\bin\Debug\net6.0\Exercicio_6.2.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\bin\Debug\net6.0\Exercicio_6.2.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.csproj.AssemblyReference.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.AssemblyInfoInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.AssemblyInfo.cs
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.csproj.CoreCompileInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\refint\Exercicio_6.2.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\Exercicio_6.2.genruntimeconfig.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_6_OO\Exercicio_6.2\Exercicio_6.2\obj\Debug\net6.0\ref\Exercicio_6.2.dll

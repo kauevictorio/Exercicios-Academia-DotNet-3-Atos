@@ -1,0 +1,15 @@
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\bin\Debug\net6.0\Exercicio_7.8.exe
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\bin\Debug\net6.0\Exercicio_7.8.deps.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\bin\Debug\net6.0\Exercicio_7.8.runtimeconfig.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\bin\Debug\net6.0\Exercicio_7.8.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\bin\Debug\net6.0\Exercicio_7.8.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.csproj.AssemblyReference.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.AssemblyInfoInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.AssemblyInfo.cs
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.csproj.CoreCompileInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\refint\Exercicio_7.8.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\Exercicio_7.8.genruntimeconfig.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\Desafio_1_OO\Exercicio_7.8\Exercicio_7.8\obj\Debug\net6.0\ref\Exercicio_7.8.dll

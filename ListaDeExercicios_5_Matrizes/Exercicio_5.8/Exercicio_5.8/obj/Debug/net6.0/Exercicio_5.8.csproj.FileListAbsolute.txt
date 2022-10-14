@@ -1,0 +1,15 @@
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\bin\Debug\net6.0\Exercicio_5.8.exe
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\bin\Debug\net6.0\Exercicio_5.8.deps.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\bin\Debug\net6.0\Exercicio_5.8.runtimeconfig.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\bin\Debug\net6.0\Exercicio_5.8.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\bin\Debug\net6.0\Exercicio_5.8.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.csproj.AssemblyReference.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.AssemblyInfoInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.AssemblyInfo.cs
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.csproj.CoreCompileInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\refint\Exercicio_5.8.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\Exercicio_5.8.genruntimeconfig.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_2\ListaDeExercicios_5_Matrizes\Exercicio_5.8\Exercicio_5.8\obj\Debug\net6.0\ref\Exercicio_5.8.dll
