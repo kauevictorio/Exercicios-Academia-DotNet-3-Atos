@@ -1,0 +1,168 @@
+body { 
+    
+    background-image: url(imagens/background.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+   
+}
+h1.tittle{
+    color: rgb(3, 37, 6);
+    background-color: rgb(54, 173, 54);
+    text-align: center;
+}
+h1.creator
+{
+    color: rgb(3, 37, 6);
+    background-color: rgb(54, 173, 54);
+    text-align: lef;
+}
+a{
+    color: blanchedalmond;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ border-style: solid;
+    border: purple;
+    border-width: 4px;
+
+}
+a.links
+{
+    background-color: black;
+    color: rgb(43, 255, 0);
+    border-style: outset;
+    border-width: 5px;
+    border-color: darkslategray;
+    margin-left:auto ;
+    margin-right: auto;
+    justify-content: center;
+}
+#column1
+{
+    float: left;
+    width: 20%;
+    background-color: black;
+    text-align: center;
+ }
+#column2
+{
+    float: left;
+    width: 20%;
+    background-color: black;
+    text-align: center;
+    
+}
+#column3
+{
+    float: left;
+    width: 20%;
+    background-color: black;
+    text-align: center;
+    
+}
+#column4
+{
+    float: left;
+    width: 20%;
+    background-color: black;
+    text-align: center;
+
+   
+}
+#column5
+{
+    float: left;
+    width: 20%;
+    background-color: black;
+    text-align: center;
+}
+p.info-site{
+    background-color: rgb(4, 104, 104);
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    border-width: 10px;
+    border-style: outset;
+    border-color: rgb(15, 0, 151);
+    }
+    p.column{
+        text-align: center;
+        justify-content: flex-end;
+        background-color: rgb(246, 255, 212);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        float: center;
+        width: 30%;
+        border-style: outset;
+        border-width: 10px;
+        border-color: rgb(15, 0, 151);
+       margin: 5px;
+        
+    }
+    img {
+        border: 10px outset rgb(15, 0, 151);
+      }
+
+      footer.foot{
+        font-family: Arial, Helvetica, sans-serif;
+        color: blanchedalmond;
+      }
+
+      h1.laberform{
+        background-color: darkslategray;
+        color: antiquewhite;
+        justify-content: end;
+      }
+      img.elderSign{
+        border-style:solid;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+      img.lovecraft-img{
+       
+        width: 400px;
+        height: auto;
+    }
+    div.DivCadastro{
+        padding-block-start: 10px;
+        margin: auto;
+        color: antiquewhite;
+        justify-items: center;
+    }
+    h1.sent{
+        background-color: greenyellow;
+        justify-content: center;
+    }
+    h2{
+        background-color: greenyellow;
+        justify-content: center;
+    }
+    p.descricao
+    {
+        background-color: rgb(156, 250, 68);
+        border-style: inset;
+        border-width: 5px;
+        border-color: black;
+    }
+    h1.preço{
+        background-color: yellowgreen;
+        color: black;
+        border-style: inset;
+        border-color:rgb(15, 0, 151) ;
+        border-width: 5px;
+    }
+    h1.compre
+    {
+        background-color: yellowgreen;
+        color: rgb(0, 0, 0);
+        border-style: inset;
+        border-color:rgb(0, 31, 204) ;
+        border-width: 10px;
+        border-bottom-right-radius: 10cm;
+    }
+    h2.titulo-produto{
+        background-color: greenyellow;
+        justify-content: center;
+        border-style: inset;
+        border-color:rgb(0, 31, 204) ;
+        border-width: 8px;
+    }

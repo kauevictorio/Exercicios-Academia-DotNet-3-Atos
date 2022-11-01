@@ -1,0 +1,15 @@
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.csproj.AssemblyReference.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.AssemblyInfoInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.AssemblyInfo.cs
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.csproj.CoreCompileInputs.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\bin\Debug\net6.0\Exercicio_8.3_Figurinhas.exe
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\bin\Debug\net6.0\Exercicio_8.3_Figurinhas.deps.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\bin\Debug\net6.0\Exercicio_8.3_Figurinhas.runtimeconfig.json
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\bin\Debug\net6.0\Exercicio_8.3_Figurinhas.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\bin\Debug\net6.0\Exercicio_8.3_Figurinhas.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\refint\Exercicio_8.3_Figurinhas.dll
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.pdb
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\Exercicio_8.3_Figurinhas.genruntimeconfig.cache
+C:\Users\Chimininos\Desktop\AcademiaDotNET_3\ListaDeExercicios_9\Exercicio_8.3_Figurinhas\Exercicio_8.3_Figurinhas\obj\Debug\net6.0\ref\Exercicio_8.3_Figurinhas.dll
